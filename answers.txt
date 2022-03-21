@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kellum Davis
+
+1.Linus Torvolds
+
+2.Developing Linux
+
+3.2005
+
+4.mkdir
+
+5.Git Push is pushing your deliverable from your local repository to the cloud repository
+
+6.To protect certain sensitive information making sure certain files aren't tracked by git.
+
+7.It branches off the main repository so we can make our own edits on our own account.
+
+8.A clone is a copy of the main repository and you can have as many as possible but you only need one.
+
+9.NO
+
+10.True
