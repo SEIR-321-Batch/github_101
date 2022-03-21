@@ -1,3 +1,11 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Levi Elliott
+1) Git was created by Linus Torvolds
+2) Developing Linux
+3) 2005
+4) git init
+5) It is the process of "pushing" your work back to GitHub so you can make a pull request.
+6) to tell git to "ignore" certain files you may not want ot include in the process (security or memory reasons etc..)
+7) It's you pulling the files from a GitHub page and taking them to your own  GitHub page so tha tyou can work with the files yourself.
+8) It's the process of trasnporting the files from github (the internet) onto your local machines.
+9) NEVER
+10) true (assuming the file has a .git/ running)
