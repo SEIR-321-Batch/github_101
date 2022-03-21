@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name: Alex Dietz
+
+1. Git was invented by Linus Torvalds.
+
+2. Linus Torvalds is also famous for having invented Linux.
+
+3. Git was invented in 2005.
+
+4. git init
+
+5. Git push updates your remote repository (on Github) with the changes you made on your local repository (on your computer).
+
+6. A .gitignore file tells Git not to track certain files or directories.
+
+7. Forking a repository in Github makes a copy of it in a new "branch." This allows you to try making changes to a project before finalizing them in the "official" version of the project.
+
+8. A clone is a local copy of an online repository. You can have as many clones as you want.
+
+9. You should not put a Github repository inside of another Github repository.
+
+10. True
