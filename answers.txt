@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Dylan Boucher
+
+1. Linus Torvalds
+2. Creating Linux
+3. 2005
+4. git init
+5. It updates the "file" on github with whatever you want to be updated. So if you worked on your HTML but not any CSS than you would only push the HTML so github has the updated version of your code.
+6. Tells Git which files you want ignored when your project is being commited to the GitHub repository.
+7. Forking is basically copying the most recent version of the project that you can then work on. You want a fork so you can work on the project.
+8. Cloning is copying the project and all of the versions, but unless you have the proper authority you are unable to push updates with it. You can however edit your copy. I think you can have as many clones as you want.
+9. never
+10. True
