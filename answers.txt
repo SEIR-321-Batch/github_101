@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Amber Pavlov
+1.  Linus Torvalds
+2.  Torvalds also invented Linux OS
+3.  2005
+4.  git init
+5.  Git push sends my "fixes" (commits) back up to the main repository.
+6.  A .gitignore file asks the computer to ignore certain files.
+7.  A fork makes a copy of a repository and puts it in your personal GitHub account so that changes can be made without affecting the original repository.
+8.  A clone is a copy to paste into a new directory.
+9.  NO!
+10. true
