@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. He was also the main developer of the Linux Kernel.
+3. Git was invented in 2005.
+4. git init
+5. It is a command to upload a repository from a local device to a remote repository.
+6. It tells git to ignore certain files.
+7. Forking allows someone to make changes to a repo without affecting the original material.
+8. A clone is used to take an exsisting repo and make a copy of it in a new directory. It can be done multiple times.
+9. You should not put a Github Repository inside of another Github repository. Don't repeat yourself!
+10. True
