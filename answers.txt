@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Name: Justin Daih
+1. Linus Torvalds
+2. Main developer of the Linux kernel
+3. 2005
+4. git init
+5. git push moves the changes from a local repository to a remote repository
+6. A .gitignore file is used to tell git not to track certain files 
+7. A fork is a complete copy of code which exists separately from the original repository. It allows you to make changes to the code without changing the original.
+8. A clone is a copy of the forked code in your local machine. Typically a repository is only cloned once.
+9. No, doing so may slow down your computer.
+10. True
