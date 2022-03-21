@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Andrew Merz
+1. Linus Torvalds invented git
+2. He is also known for developing the Linux kernal
+3. Git was invented in 2005
+4. git init initializes a local repository
+5. git push will the changes that you made in your local repository and add or "push" them to the remote repository
+6. The .gitignore file is used to tell git what files it should ignore when pushing a project to github. This makes it so that your personal files dont end up on github
+7. A fork in github is a copy of all of the files in a repository. Forks are important because you can make changes to the files without affecting the original repository
+8. A clone is when you copy the repository from github at a given point in time. You can clone more than once but not in the same directory
+9. Never
+10. True
