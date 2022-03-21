@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. The Legacy of Linus Torvalds: Linux, Git, and One Giant Flamethrower. 
+3. 2005
+4. git init
+5.The git push command is used to upload local repository content to a remote repository.
+6. The . gitignore file tells Git which files to ignore when committing your project to the GitHub repository.
+7. The purpose of fork() is to create a new process, which becomes the child process of the caller.
+8. When you clone a repository, you copy the repository from GitHub.com to your local machine. You can clone as many cuttings as you want as long as the original plants still have lots of branches.
+9. It's possible to do, not sure if one should do that. 
+10. true
