@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+James Collin Jones
+1. Linus Torvalds.
+2. He also created Linux Kernel.
+3. Git was created in 2005.
+4. git init
+5. git push will send commits of a local repository to a remote repository in GitHub.
+6. A .gitignore file tells Git to ignore certain files when you make a commit so you do not commit everything because we do not always want all of our files to be shared on the internet.
+7. A fork allows you to make changes to original code without actually changing that code.
+8. A clone is a copy of a project from Github onto your computer. You can have as many clones as you want, just don't clone a repo within another repo. 
+9. No, do not clone repos inside repos.
+10. True. 
