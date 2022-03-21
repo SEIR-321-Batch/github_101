@@ -1,3 +1,13 @@
 Your answers go here!
+1. Linus Torvald 
+2. Linus also invents Linux
+3. 2005
+4. git init
+5. allows you to send personal git file to remote 
+6. not to track certain files
+7. Fork it allows you to take the repo that you copied and place it in your own account so you can edit your copy 
+8. clone copies the repo onto your computer from orignal git source. 1 per directory 
+9. no
+10. true
 Please include your name and number your answers.
 ==================================================
