@@ -1,3 +1,14 @@
+Sean Ortiz - Air Classroom
 Your answers go here!
+1.  Linus Torvalds
+2.  He invented Linux
+3.  2005
+4.  git init
+5.  It pushes what is on your machine (local repo) to GitHub(remote repo).
+6.  It ensures that those files not tracked by Git remain untracked (they are not pushed).
+7.  A fork is a copy of a repository. You would want one to either make changes to a project or to use a project as a starting point for your own idea.
+8.  It is a copy of an existing repo in a new directory. They are independent and self-contained so I believe there is no set amount you can have, it is infinite.
+9.  NO, NEVER according to Eric. At least for now, I read it's bad practice for novices until you learn about submodules, nesting, and other things I don't know yet about git.
+10. True
 Please include your name and number your answers.
 ==================================================
