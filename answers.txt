@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Cliff Duffey
+
+1. Linus Torvalds
+
+2. Linux
+
+3. 2005
+
+4. git init
+
+5. Applying the changes made in your local repo to the remote repo
+
+6. To tell git which files not to include in a git push
+
+7. Creates a copy another persons repository as your own repository
+ 
+8. As many as you want as long as it is in a different directory
+
+9. No
+
+10. true
