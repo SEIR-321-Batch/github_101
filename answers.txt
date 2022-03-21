@@ -1,3 +1,20 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1 - Linus Torvalds invented Git.
+2 - He is also famous for creating Linux.
+3 - Git was invented in 2005.
+4 - The git command to initialize a new repository is 'git init'
+5 - The command 'git push' uploads any changes from the local repository (your working computer) 
+    to the remote repository,
+    to GitHub.
+6 - A .gitignore file is used to protect your personal information from being uploaded to the git 
+    repository, which souldn't be online for others to access.
+    This .gitignore file also prevents uploading huge files to the internet (such as node_modules).
+7 - A fork is a 'copy' of a git repository that is copied into your own personal GitHub page.
+    This fork allows you to change/edit/play with code without altering the original content.
+8 - A clone is a copy of a repository, usually the one on the local computer, placing it in a new directory.
+    You can clone a repository as many times as you want, but I'm not sure how multiple clones would 
+    be useful, as changes would not be consistent across all clones.
+9 - You should NOT put a Github repo inside another GitHub repo.
+10 - True, if you type git status into an uninitialized repo, then you will get an error.
