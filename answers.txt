@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kimberly Baldeo, Earth Class
+
+### **1. Who invented Git?**
+Linus Torvolds
+### **2. What else is the person who invented Git famous for?**
+In addition to Git, he also created the Linux kernel
+### **3. What year was Git invented?**
+2005
+### **4. What is the git command to initialize a new repository?**
+git init 
+### **5. In your own words, describe what the command `git push` is doing.**
+Through git push you can upload a local repo to a remote repository 
+### **6. What is the purpose of a `.gitignore` file?**
+There may be files you do not want to committ, gitignore allows you to choose which files you are not including in an uploaded committ
+### **7. What is a fork? Why would you want to have a fork?**
+A fork is a personal copy of a repo that allows you to make edits without them being reflected on the original file. It also provides a snapshop at the time of forking, any changes that may have occured after will not be reflected in the copy you forked. 
+### **8. What is a clone? How many clones can you have?**
+A clone is a local copy of repo data that has been pulled down from Github
+### **9. Should you put a Github repository inside of another Github repository?**
+No
+### **10. You can type `git status` at any time while in a git repository - true or false?**
+True
