@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Andrew Bader
+
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. uploading altered content from local repository to remote repository (ie GitHub)
+6. To protect private data from public internet
+7. A fork is a copy of a file that I can work on without destroying original
+8. A clone is a copy on my own system that I can edit and alter. Google search says you can but you have to git clone in separate repositories
+9. No
+10. True 
