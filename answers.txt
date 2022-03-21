@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds invented Git.
+2. He's also famous for being Linux's main developer and creating Subsurface.
+3. It was invented in 2005.
+4. git init
+5. It updates all your changes from local repository to a remote one.
+6. To ensure that certain files remain untracked by Git.
+7. Fork is a copy of the repository. It allows you to make changes without affecting the original files.
+8. A clone is when you copy the repository from GitHub website to a local machine.
+8. No.
+10. True.
