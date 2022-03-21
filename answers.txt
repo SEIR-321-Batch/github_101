@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Brendan Burke GitHub Lab answers
+
+1.) Git was created by Linus Torvalds
+2.) Torvalds also created Linux
+3.) Git was created in 2005
+4.) git init
+5.) git push is basically sending a copy of your local repo to the remote repo that you have assigned
+6.) .gitignore files tell the git not to track changes to whatever files you apply it to. This is used for privacy, when the rest of your code needs to access confidential data that you don't want pushed to remote repositories. 
+7.) A fork is a copy of a repo that you bring to your github account. Forking a repo allows you to track your own versions of a collaborative repo, without mucking up the version history on the master repo.
+8.) A clone is a copy of a repo that you have pulled from GitHub to your local machine to make edits. You can make multiple clones of the same repository.
+9.) You should not put a GitHub repository inside of another GitHub repository
+10.) True

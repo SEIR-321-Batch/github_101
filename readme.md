@@ -10,17 +10,20 @@ Congrats on completing your first day of SEI! Let's do a little review quiz and 
 
 ## Review: Git and Github
 
-Remember, *git* and *github* are two different things! Git is a version control system for managing your source code. Github is a platform to host your code online so others can access it and collaborate with you on it. You can think of Github as social media for Git! For a more detailed explanation, [watch this video](https://www.youtube.com/watch?v=uUuTYDg9XoI)!
+Remember, _git_ and _github_ are two different things! Git is a version control system for managing your source code. Github is a platform to host your code online so others can access it and collaborate with you on it. You can think of Github as social media for Git! For a more detailed explanation, [watch this video](https://www.youtube.com/watch?v=uUuTYDg9XoI)!
 
 ### Tracking files: What is a .gitignore file?
 
-You may or may not have encountered a file called `.gitignore`. If you haven't, that's fine - you will soon enough! This file tells git *not* to track certain files. Here are a few reasons we might want to do this:
+You may or may not have encountered a file called `.gitignore`. If you haven't, that's fine - you will soon enough! This file tells git _not_ to track certain files. Here are a few reasons we might want to do this:
 
 1. Sometimes we have private data (e.g., API keys) in `.env` files that doesn't belong on the internet
 1. Sometimes we have files / folders that are huge and it can save us a lot of time to just not include them
-  * Once we get to unit 2, we'll always want to exclude the gigantic `node_modules` folder! 
+
+- Once we get to unit 2, we'll always want to exclude the gigantic `node_modules` folder!
+
 1. Including these files and folders may complicate or mess up your deployments
-  * Don't complicate your life 🙂
+
+- Don't complicate your life 🙂
 
 We won't need to create or use these files ourselves until unit 2, so don't sweat it if you're not yet a git master! For now, we just wanted to let you know what that file was that you may have stumbled across.
 
@@ -36,9 +39,9 @@ You can find a [complete list of best practices here](https://gist.github.com/ro
 
 #### 1. Fork it!
 
-On the upper righthand corner of this page, you will see a button that says `Fork`. Press that button!!! This will fork it to your personal Github account. This means that a complete copy of all the code and all the commits will be added to your Github account. Remember - a fork is a *copy* which now exists separately than the original repository that you forked from!
+On the upper righthand corner of this page, you will see a button that says `Fork`. Press that button!!! This will fork it to your personal Github account. This means that a complete copy of all the code and all the commits will be added to your Github account. Remember - a fork is a _copy_ which now exists separately than the original repository that you forked from!
 
-> **Note**: If you have access to multiple accounts or organizations on Github, you may get a pop-up asking you which one you want to use. 
+> **Note**: If you have access to multiple accounts or organizations on Github, you may get a pop-up asking you which one you want to use.
 
 #### 2. Clone it!
 
@@ -46,13 +49,13 @@ Once you have a "fork" of the repository on your own account, you want to clone 
 
 ![](http://res.cloudinary.com/briezh/image/upload/v1531169741/Screen_Shot_2018-07-09_at_1.55.16_PM_kb0fuq.png)
 
-> **Protip**: If you made SSH keys in class, you should use the SSH link. Otherwise, you can use the HTTPS link. 
+> **Protip**: If you made SSH keys in class, you should use the SSH link. Otherwise, you can use the HTTPS link.
 
-Once you have this link copied, go to your terminal and run the command 
+Once you have this link copied, go to your terminal and run the command
 
 ```bash
 git clone THE_LINK_YOU_COPIED
-``` 
+```
 
 You may or may not be prompted for a password before the clone can take place.
 
@@ -78,7 +81,7 @@ Usually this is Sublime Text, Atom, or VS Code, but feel free to get wild and go
 
 ```bash
 code .
-``` 
+```
 
 #### 5. Answer the [Quiz Questions](#quiz-questions) Below
 
@@ -90,7 +93,7 @@ Save the answers.txt file when you're done. Close the text editor.
 
 #### 7. Check yourself
 
-Run the following command. 
+Run the following command.
 
 ```bash
 git status
@@ -106,7 +109,7 @@ You can add files to be staged for (ready to go into) the next commit. The follo
 git add .
 ```
 
-> **Protip**: The `git init` command is only necessary when you're starting a repository from scratch! Since we used the `git clone` command, we already have an initialized repository. 
+> **Protip**: The `git init` command is only necessary when you're starting a repository from scratch! Since we used the `git clone` command, we already have an initialized repository.
 
 #### 9. Commit to it!
 
@@ -126,15 +129,15 @@ What this step does is take our commits and send them to wherever we specify. In
 git push origin master
 ```
 
-In this case, `origin` refers to Github — where the code originated! We can use the push command to push to Github or any another place that might host our repository. We'll also use it to deploy our sites to `Heroku` later in the course. For now, it's important to realize that the code on your Github account and the code on your machine don't match until you send your changes to Github via this push command! 
+In this case, `origin` refers to Github — where the code originated! We can use the push command to push to Github or any another place that might host our repository. We'll also use it to deploy our sites to `Heroku` later in the course. For now, it's important to realize that the code on your Github account and the code on your machine don't match until you send your changes to Github via this push command!
 
-The `master` at the end of the command refers to the *branch*. Master is always the default branch, and for now, it's the only one we'll use. Later in the course we'll get into branches. 
+The `master` at the end of the command refers to the _branch_. Master is always the default branch, and for now, it's the only one we'll use. Later in the course we'll get into branches.
 
 #### 11. One Last Step!!!
 
 Go into your internet browser and refresh the page with your forked repository. Do you see your changes on Github now?
 
-If so, your one last step is to make a `pull request`. The term is a little bit confusing, but it means to essentially show the original repository the changes you made on your own version. It alerts the owner of the original repository and opens up the code for comments and review. 
+If so, your one last step is to make a `pull request`. The term is a little bit confusing, but it means to essentially show the original repository the changes you made on your own version. It alerts the owner of the original repository and opens up the code for comments and review.
 
 > **Protip**: You can double check whether your pull request went through by clicking on the pull requests tab and looking for your username! See the example below (on a different repository).
 
@@ -144,9 +147,9 @@ If so, your one last step is to make a `pull request`. The term is a little bit 
 
 By the end of this you should have:
 
-* A separate fork of this repository (meaning, a copy on your *own* Github Enterprise account!)
-* A file called `answers.txt` that has numbered answers to each of the questions listed below.
-* A pull request against this repository (on SEIR-1213)
+- A separate fork of this repository (meaning, a copy on your _own_ Github Enterprise account!)
+- A file called `answers.txt` that has numbered answers to each of the questions listed below.
+- A pull request against this repository (on SEIR-1213)
 
 ## Quiz Questions
 
@@ -170,11 +173,10 @@ By the end of this you should have:
 
 #### 10. You can type `git status` at any time while in a git repository - true or false?
 
-
 ## Additional Resources
 
-* [Git Online Mini-Quiz](https://learn.co/lessons/git-basics-quiz)
-* [Git vs Github](https://www.youtube.com/watch?v=uUuTYDg9XoI) (Explains the differences)
-* [First Github Commit](https://www.youtube.com/watch?v=QqP7YZlZEOo) (This should be a review of our in-class lesson if you feel you need it!)
-* [Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY) (This is a non-coder intro to using Git/Github)
-* [Commit Messages Best Practices](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
+- [Git Online Mini-Quiz](https://learn.co/lessons/git-basics-quiz)
+- [Git vs Github](https://www.youtube.com/watch?v=uUuTYDg9XoI) (Explains the differences)
+- [First Github Commit](https://www.youtube.com/watch?v=QqP7YZlZEOo) (This should be a review of our in-class lesson if you feel you need it!)
+- [Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY) (This is a non-coder intro to using Git/Github)
+- [Commit Messages Best Practices](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
