@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Justin Gracie  'Water'
+
+1.  Linus Torvalds invented git
+
+2.  Being one of the main developers behind Linux. 
+
+3. 2005
+
+4. git init
+
+5.  git push is a command is used to upload content locally stored on you computer to a remote locataion or repository. 
+
+6.  .gitignore file is tell git not to upload content with this name, this is usually to protect sensitive information that should now be shared publicly or limit the amount of content to be uploaded. 
+
+7.  fork is a function that creates an exact copy of a code file for collaborators to work on, you want this to preserve version control and prevent two people from working on one file at the same time. 
+
+8.  a clone is a copy of a file pulled from a cloud repository GitHub.com and add to your local machine in order to make updates/changes.  I don't think there is a limit on clones. 
+
+9.  No you should not. 
+
+10.  True
+
