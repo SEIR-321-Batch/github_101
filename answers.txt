@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Jonathan Kim
+1. Linus Torvalds
+2. Creating Linux kernel
+3. 2005
+4. git init
+5. Uploading changes to GitHub.. publishing almost.
+6. It tells Git which files to ignore when committing your project to the repo.
+7. Fork is a copy of the repo you change. It lets you make changes without changing the orignal repo.
+8. It targets existing repo and creates a copy of the target repo. Not more than one in the same directory.
+9. No
+10. True
