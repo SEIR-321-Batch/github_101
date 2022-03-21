@@ -1,3 +1,18 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Jesse Broxton
+
+1. Linus Torvalds was the creator of git.
+2. Linus Torvalds was also the creator and main developer of the linux kernel.
+3. Git was created in 2005.
+4. Git init is the git command to initialize a new git repo.
+5. Git push is a way of sending files from your local network to a remote network.
+6. The purpose of gitignore files are to keep private files hidden and save time by not checking large files.
+7. A fork is a completely new copy of a repo. The purpose of a fork is to create a copy of a repo to modify without effecting the orginial repo.
+It allows others to easily contribute to your repos.
+8. A clone is a copy that is still linked to the orginial. Clones allows fast changes from your local workspace to a remote workspace.
+9. You should never put a github repo in another github repo.
+10. It is true you can use git status any time in a git repo.
+
+
