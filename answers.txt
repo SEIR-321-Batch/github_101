@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Sameer Khreis
+1. Linus Torvalds
+2. He is the creator of Linux.
+3. 2005
+4. git init
+5. A git push is the push of changes onto your repository and updates what you've done into real-time and will show in the repository when people access it.
+6. .gitignore ignores files that you don't wish to commit to the repository.
+7. A fork is a copy of a repository that allows the person who forks it to manage it under their own diligence, so that it doesn't effect the original project.
+You'd want to fork in order to try adding different features that you want to test, but not interrupt the main source.
+8. You clone the entire repository, and allows you to access it on your local computer. One clone.
+9. No, never put a repository into another repository
+10. True
