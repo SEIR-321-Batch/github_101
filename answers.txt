@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Timothy Cebula
+1. Linus Torvalds
+2. He was the main developer of Linux kernel.
+3. 2005
+4. git init
+5. Pushes the current branch to a branch with a matching name.
+6. Tells Git which files to ignore when committing a project to GitHub
+7. A fork is a copy of the repository that you can manage. You use it to edit without changing the original.
+8. A clone is a copy of the file you want on your local desktop. You can do this as often as you want.
+9. You should use a submodule
+10. True
