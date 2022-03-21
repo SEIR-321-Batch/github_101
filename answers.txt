@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Daejah Atkinson
+1. Who invented Git?
+    Git was invented by Linus Torvalds
+2. What else is the person who invented Git famous for?
+    He's the main developer of Linux
+3. What year was Git invented?
+    2005
+4. What is the git command to initialize a new repository?
+    git init
+5. In your own words, describe what the command git push is doing.
+    pushes files from a local repo to a remote repo
+6. What is the purpose of a .gitignore file?
+    To keep you for sharing files that are unnecessary 
+7. What is a fork? Why would you want to have a fork?
+    create a new version of the code, this allows you to edit code with affecting the original source
+8. What is a clone? How many clones can you have?
+    A duplicate copy of the code. As many as you'd like
+9. Should you put a Github repository inside of another Github repository?
+    NO
+10. You can type git status at any time while in a git repository - true or false?
+    True
