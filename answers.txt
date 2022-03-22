@@ -4,4 +4,22 @@ Please include your name and number your answers.
 
 Mohammed Hasif Rahman - Water_classroom.
 
-1. Linus Torvalds
+1. Linus Torvalds.
+
+2. Creator and main developer of Linux.
+
+3. 2005
+
+4. git init 
+
+5. git push sends your local repository/code and uploads it to your repository on github/ wherever you stored your code.
+
+6. .gitignore files lets you ignore files you need while using/testing your code but contains secret keys or confidential information you do not wish the public to see. These files will not be pushed onto github.
+
+7. Fork is basically copying over someone's entire repository. You want to do this so you can edit it yourself.
+
+8. A clone is the next step after forking, where you make a full copy that you can edit and use. You can have as many clones as you want.
+
+9. Never, Never, Never put github repos in another github repo.
+
+10. True.
