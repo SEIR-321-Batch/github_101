@@ -1,3 +1,17 @@
 Your answers go here!
+
+Devan Babcock
+
+1. Linus Torvalds.
+2. Making Linux!
+3. 2005.
+4. Git init
+5. Pushing your committed changes to the remote repository.
+6. This lets you ignore certain files when pushing commits.
+7. A fork is a remote location of a folder and all of its contents that were uploaded to GitHub.
+8. This lets you make your own changes before adding, committing, and pushing those changes back to the remote repo. You can clone this as many times as your comp can handle.
+9. No, this will slow down your device.
+10. You can type git status outside of a repo as well. I just did this to make sure my whole computer wasn't a repo!
+
 Please include your name and number your answers.
 ==================================================
