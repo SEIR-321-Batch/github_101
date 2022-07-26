@@ -1,3 +1,13 @@
 Your answers go here!
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. Sends changes back to the remote respository
+6. Tells git not to add those files to your commits
+7. A fork is a duplicate of a preexisting project that you create in order to make changes while preserving the stability of the master
+8. A clone is a copy of a project on your local machine. You can make as many as you want.
+9. You should not create a github repository in another github repository
+10. True
 Please include your name and number your answers.
 ==================================================
